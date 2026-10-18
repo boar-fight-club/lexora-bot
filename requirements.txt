@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+deep-translator
+python-dotenv
+aiohttp
